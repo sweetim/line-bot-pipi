@@ -61,8 +61,6 @@ function App() {
     ], {
       isMultiple: false,
     })
-    if (liff.isApiAvailable("shareTargetPicker")) {
-    }
   }
 
 
